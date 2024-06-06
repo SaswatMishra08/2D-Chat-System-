@@ -1,0 +1,9 @@
+README.txt
+licence.txt
+setup.py
+facedetect/__init__.py
+facedetect/face.py
+facedetect.egg-info/PKG-INFO
+facedetect.egg-info/SOURCES.txt
+facedetect.egg-info/dependency_links.txt
+facedetect.egg-info/top_level.txt

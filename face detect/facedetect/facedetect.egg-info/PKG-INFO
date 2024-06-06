@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: facedetect
+Version: 0.5
+Summary: this is face detection module
+Author: Malay
+License-File: licence.txt
+
+face detection module will help us to detect faces and as well as emotions. then baased on those emotions we will be able to change the color of text entered by the user.
